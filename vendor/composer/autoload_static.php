@@ -20,6 +20,7 @@ class ComposerStaticInit5043fbe9cd63af1e4a5e5a7bb718a05a
         'k' => 
         array (
             'kartik\\select2\\' => 15,
+            'kartik\\dialog\\' => 14,
             'kartik\\base\\' => 12,
         ),
         'c' => 
@@ -44,6 +45,10 @@ class ComposerStaticInit5043fbe9cd63af1e4a5e5a7bb718a05a
         'kartik\\select2\\' => 
         array (
             0 => __DIR__ . '/..' . '/kartik-v/yii2-widget-select2',
+        ),
+        'kartik\\dialog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-dialog',
         ),
         'kartik\\base\\' => 
         array (
