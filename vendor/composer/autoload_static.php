@@ -20,6 +20,8 @@ class ComposerStaticInit5043fbe9cd63af1e4a5e5a7bb718a05a
         'k' => 
         array (
             'kartik\\select2\\' => 15,
+            'kartik\\growl\\' => 13,
+            'kartik\\form\\' => 12,
             'kartik\\dialog\\' => 14,
             'kartik\\base\\' => 12,
         ),
@@ -45,6 +47,14 @@ class ComposerStaticInit5043fbe9cd63af1e4a5e5a7bb718a05a
         'kartik\\select2\\' => 
         array (
             0 => __DIR__ . '/..' . '/kartik-v/yii2-widget-select2',
+        ),
+        'kartik\\growl\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-widget-growl',
+        ),
+        'kartik\\form\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-widget-activeform',
         ),
         'kartik\\dialog\\' => 
         array (
